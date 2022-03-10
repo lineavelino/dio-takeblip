@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Titulo;
+    src: url(../fonts/ANODETONOONE.TTF);
+}
+
+h1 {
+    font-family: Titulo;
+    font-size: 40px;
+    color: #603A03;
+}
+
+body {
+    background-image: url(../img/fundo.jpg);
+}
+
+#container {
+    width: 950px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#fundoGame {
+    width: 950px;
+    height: 630px;
+    background-image: url(../img/fundo_game.jpg);
+    border: solid #FFF;
+}
+
+#inicio {
+    width: 350px;
+    height: 200px;
+    background-color: #FFF;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px;
+}
