@@ -1,5 +1,5 @@
 ## 🤖 Resultado final
-<img src="./contador/assets/img/Screenshot_1.jpg" alt="print resultado final">
+<img src="../contador/assets/img/Screenshot_1.jpg" alt="print resultado final">
 
 ## ✅ Objetivo
 
